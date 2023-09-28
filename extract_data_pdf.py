@@ -15,7 +15,7 @@ def extract_text_from_pdf(pdf_file):
     return text
 
 # Nome do arquivo PDF que você deseja processar
-pdf_file = "assets/doc/previa.pdf"  # Substitua pelo caminho do seu arquivo PDF
+pdf_file = "assets/doc/doc1.pdf"  # Substitua pelo caminho do seu arquivo PDF
 
 # Chama a função para extrair texto do PDF
 extracted_text = extract_text_from_pdf(pdf_file)
